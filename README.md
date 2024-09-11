@@ -1,0 +1,3 @@
+- ML classifiers provide a great opportunity to analyze the variation and distribution of a dataset. 
+- Pima is a complex multivariate dataset offered by Kaggle which comprises 768 instances and 8 attributes. 
+- I chose to implement Naive Bayes, SVM and kNN classifiers to analyze this dataset.
